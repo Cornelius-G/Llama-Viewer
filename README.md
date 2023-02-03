@@ -21,7 +21,7 @@ In the meantime, you can run it with Node.js as described below.
 
 
 
-## Installation (only once)
+## Installation
 
 1) Download the [Node.js installer for your operating system](https://nodejs.org/en/download/) and install it according to the documentation.
 2) Download or clone the `Llama-Viewer` repository to your filesystem.
