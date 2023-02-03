@@ -25,10 +25,10 @@ In the meantime, you can run it with Node.js as described below.
 
 1) Download the [Node.js installer for your operating system](https://nodejs.org/en/download/) and install it according to the documentation.
 2) Download or clone the `Llama-Viewer` repository to your filesystem.
-3) Go to the `Llama-Viewer` folder and run `npm install` in your terminal.
+3) Go into the `Llama-Viewer` folder and run `npm install` in your terminal.
 
 ## Usage
-1) Go to the `Llama-Viewer` folder and run `npm start` in your terminal.  
+1) Go into the `Llama-Viewer` folder and run `npm start` in your terminal.  
 The `Llama-Viewer` app should start and you can select a `.csv` file to load.
 
 
