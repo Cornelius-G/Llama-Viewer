@@ -14,7 +14,7 @@ It gives you an overview of your logged analyses and lets you sort and filter th
 ---
 **NOTE**
 
-Llama Viewer will soon be available as executables for Windows, macOS and Linux. 
+**Llama Viewer** will soon be available as executables for Windows, macOS and Linux. 
 In the meantime, you can run it with Node.js as described below.
 
 ---
@@ -29,7 +29,7 @@ In the meantime, you can run it with Node.js as described below.
 
 ## Usage
 1) Go to the `Llama-Viewer` folder and run `npm start` in your terminal.  
-The `Llama-Viewer` app should start and you can select a `.csv` file to load
+The `Llama-Viewer` app should start and you can select a `.csv` file to load.
 
 
 <img src="docs/images/llama-viewer.png" width="1900" align="center"/>
