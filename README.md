@@ -29,7 +29,8 @@ In the meantime, you can run it with Node.js as described below.
 
 ## Usage
 1) Go into the `Llama-Viewer` folder and run `npm start` in your terminal.  
-The `Llama-Viewer` app should start and you can select a `.csv` file to load.
+The `Llama-Viewer` app should start and you can select a `.csv` file to load.  
+(A documentation on how to create the corresponding `.csv` files can be found at [Llama.jl](https://github.com/Cornelius-G/Llama.jl) or [Llama.py](https://github.com/Cornelius-G/Llama.py).)
 
 
 <img src="docs/images/llama-viewer.png" width="1900" align="center"/>
